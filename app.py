@@ -21,3 +21,5 @@ class Enrollment_System:
 x = Enrollment_System(__name__)
 x.setup_route()
 x.run()
+x.happy()
+# anythijeinvvvuuchfugnx8xyygcle
